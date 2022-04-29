@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="mailto:zzang9un@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&logoColor=FF0000"/></a>
+
 <!--
 **zzang9un/zzang9un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
